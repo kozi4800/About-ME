@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Suu
 
-🚀 **System Engineer** with over **15 years of experience** in **Linux infrastructure**, **Docker**, and **Ansible**, and more. I specialize in creating high-performance, secure, and resource-efficient server solutions, including **FiveM** and **RedM** infrastructures. Currently working at **[redacted]**.
+🚀 **System Engineer** with over **15 years of experience** in **Linux infrastructure**, **Docker**, and **Ansible**, and more... I specialize in creating high-performance, secure, and resource-efficient server solutions, including **FiveM** and **RedM** infrastructures. Currently working at **[redacted]**.
 
 🎮 I'm passionate about **roleplaying games** and actively involved in developing custom scripts and servers for **RedM** and **FiveM**, using the **RSG Framework**. I also contribute to open-source projects related to **gaming servers** and **automation**.
 
